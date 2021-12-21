@@ -9,3 +9,11 @@ Predict an flower image with fine-tuned ResNet50 model based on [102 Category Fl
     cd Frontend
     yarn start-api  // run flask server
 Then go to http://localhost:5000/
+
+## Technologies
+- Python
+- Keras
+- Flask
+- TypeScript
+- React
+- Material UI
